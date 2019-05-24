@@ -4,7 +4,7 @@ title:      量子力学的数学表述
 subtitle:   嗯，我就是试试看
 date:       2019-5-24
 author:     fugueh
-#header-img: img/post-bg-mma-3.jpg
+header-img: img/post-bg-mma-3.jpg
 catalog: true
 tags:
     - 数学
