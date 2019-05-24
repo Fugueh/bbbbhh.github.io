@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      量子力学的数学表述
+subtitle:   嗯，我就是试试看
+date:       2019-5-24
+author:     fugueh
+#header-img: img/post-bg-mma-3.jpg
+catalog: true
+tags:
+    - 数学
+    - 量子力学
+---
+
 ## 量子力学的数学表述
 
 - 形式：抽象代数结构 - 无穷维希尔伯特空间+算子
